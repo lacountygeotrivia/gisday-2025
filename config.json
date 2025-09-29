@@ -5,7 +5,7 @@
         "path": "proto-config",
         "description": "How Well Do YOU Know LA County?",
         "serviceURL": "https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/survey123_f3c95ee6aeb34ba6bed05e99030a87b8_results/FeatureServer/0",
-        "introImage": "./intro.PNG",
+        "introImage": "./GeoGuessrImage_LACounty.png",
         "initCenter": [-118.247604, 34.058194],
         "homeZoom": 11,
         "minZoom": 10,
